@@ -21,6 +21,7 @@
     <module>client-java-contrib/cert-manager</module>
     <module>client-java-contrib/prometheus-operator</module>
     <module>client-java-contrib/admissionreview</module>
+    <module>client-java-contrib/azure-secretproviderclasses</module>
   </modules>
 
   <scm>
